@@ -1,0 +1,17 @@
+{
+  "name": "essx-vuepress",
+  "version": "1.0.0",
+  "description": "EssentialsX docs, powered by VuePress",
+  "main": "index.js",
+  "repository": "https://github.com/md678685/essx-vuepress",
+  "author": "MD678685 <mathew678@hotmail.co.uk>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "vuepress": "vuepress"
+  },
+  "dependencies": {
+    "vuepress": "^0.10.1"
+  }
+}
