@@ -3,6 +3,9 @@ title: "Spawn"
 date: 2018-09-04T16:03:25+01:00
 description: ""
 draft: true
+
+# Sidebar order
+weight: 40
 ---
 
 EssentialsX Spawn is a spawn management plugin, allowing you to set spawn locations per-group or for everyone on the server.

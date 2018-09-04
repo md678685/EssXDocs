@@ -3,6 +3,9 @@ title: "Protect"
 date: 2018-09-04T16:03:35+01:00
 description: ""
 draft: true
+
+# Sidebar order
+weight: 30
 ---
 
 EssentialsX Protect allows you to configure rules for your world. You can disable various behaviours, all of which are described in the config file.

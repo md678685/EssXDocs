@@ -1,7 +1,11 @@
 ---
 title: "GeoIP"
 date: 2018-09-04T16:03:41+01:00
+description: ""
 draft: true
+
+# Sidebar order
+weight: 20
 ---
 
 EssentialsX GeoIP adds geographic lookups to EssentialsX commands such as `/whois`, providing a rough estimate of a player's location based on their IP address.

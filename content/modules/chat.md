@@ -1,8 +1,11 @@
 ---
-title: "EssentialsX Chat"
+title: "Chat"
 date: 2018-09-04T16:03:18+01:00
 description: ""
 draft: true
+
+# Sidebar order
+weight: 10
 ---
 
 EssentialsX Chat is a simple chat formatting plugin that allows you to add prefixes and suffixes to your chat, customize the appearance of your messages, and set up separate chat formats for different groups.
