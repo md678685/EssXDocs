@@ -2,7 +2,6 @@
 title: "EssentialsX"
 date: 2018-09-04T14:38:51+01:00
 description: "Home of EssentialsX"
-draft: true
 ---
 
 {{% notice warning %}}
@@ -16,16 +15,11 @@ Not sure what the improvements are? Check out the [Improvements](info/improvemen
 
 ## Links
 
-### Official Links
-
 * [Download EssentialsX](https://ci.ender.zone/job/EssentialsX)
 * [Join the MOSS Discord community](https://discord.gg/h8CnPSw) - live support
 * [Open a GitHub issue](https://github.com/EssentialsX/Essentials/issues/new)
-
-### Xeyame's EssentialsX reference site
-
-* [Commands](https://essinfo.xeya.me/permissions.php)
-* [Permissions](https://essinfo.xeya.me/permissions.php)
+* [Xeyame's Commands List](https://essinfo.xeya.me/permissions.php)
+* [Xeyame's Permissions List](https://essinfo.xeya.me/permissions.php)
 
 ### Original Essentials wiki
 

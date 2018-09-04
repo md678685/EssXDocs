@@ -2,7 +2,6 @@
 title: "Modules"
 date: 2018-09-04T16:01:31+01:00
 description: ""
-draft: true
 ---
 
 EssentialsX has extra modules that you can install separately to add more features to your server.

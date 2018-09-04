@@ -2,7 +2,6 @@
 title: "_Footer"
 date: 2018-09-04T14:42:00+01:00
 description: ""
-draft: true
 ---
 
 [![Spigot Downloads](https://img.shields.io/badge/dynamic/json.svg?url=https://api.spiget.org/v2/resources/9089&label=downloads&query=$.downloads&colorB=ee8a18&style=flat-square&maxAge=3600)](https://www.spigotmc.org/resources/essentialsx.9089/)
